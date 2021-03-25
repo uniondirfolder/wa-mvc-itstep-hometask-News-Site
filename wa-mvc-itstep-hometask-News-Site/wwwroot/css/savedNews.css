@@ -1,0 +1,51 @@
+﻿#saved-news-title {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.col-sm-4 {
+    margin-top: 20px;
+}
+
+.delete, .read {
+    margin-top: 5px;
+}
+
+#no-saved-title {
+    margin-top: 30px;
+    text-align: center;
+}
+
+#empty {
+    height: 60px;
+}
+
+.title-link {
+    text-decoration: none;
+    color: black;
+}
+
+    .title-link:link {
+        text-decoration: none;
+        color: black;
+    }
+
+    .title-link:visited {
+        text-decoration: none;
+        color: black;
+    }
+
+.source-link {
+    text-decoration: none;
+    color: black;
+}
+
+    .source-link:link {
+        text-decoration: none;
+        color: black;
+    }
+
+    .source-link:visited {
+        text-decoration: none;
+        color: black;
+    }
