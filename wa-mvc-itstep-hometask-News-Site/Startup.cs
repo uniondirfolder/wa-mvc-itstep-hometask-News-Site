@@ -96,7 +96,7 @@ namespace wa_mvc_itstep_hometask_News_Site
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}");
+                    pattern: "{controller=News}/{action=Index}");
             });
         }
     }
