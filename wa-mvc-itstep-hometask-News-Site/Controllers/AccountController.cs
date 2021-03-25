@@ -131,11 +131,11 @@ namespace wa_mvc_itstep_hometask_News_Site.Controllers
                 }
                 else if (user != null && user.IsLocked)
                 {
-                    ModelState.AddModelError("User is locked", "Ваш аккаунт заблокирован");
+                    ModelState.AddModelError("User is locked", "Your account is blocked");
                 }
                 else
                 {
-                    ModelState.AddModelError("User not found", "Неверный email или пароль");
+                    ModelState.AddModelError("User not found", "Invalid email or password");
                 }
             }
 
