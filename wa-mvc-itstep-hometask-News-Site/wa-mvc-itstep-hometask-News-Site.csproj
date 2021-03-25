@@ -19,8 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Services\Security\" />
-    <Folder Include="Services\Rss\" />
+    <Folder Include="Utils\Exstensions\" />
   </ItemGroup>
 
 </Project>
